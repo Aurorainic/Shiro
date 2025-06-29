@@ -6,8 +6,6 @@
 
 专为 [Mix Space](https://github.com/mx-space) 生态系统设计的现代化个人站点前端。
 
-## :sparkles: 示例站点
-
 以下是一些使用 Shiro 主题的精美站点：
 
 - [静かな森](https://innei.in)
